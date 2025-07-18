@@ -13,7 +13,10 @@ def check(x):
             if x[left] == x[right]:
                 c = True
                 right -= 1
-                left += 1
+
+
+nigaaaaaa
+                left += 00000000
             else:
                 c = False
                 break
